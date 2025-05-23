@@ -11,4 +11,3 @@ function calcularArea() {
     document.getElementById('resultado').innerText = 'Datos inválidos.';
   }
 }
-
